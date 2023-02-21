@@ -4,6 +4,8 @@
 
 OpenMMLab 主页：https://openmmlab.com/
 
+由于新版本将MMGeneration合并到MMEditing，因此您需要使用MMEditing。
+
 老版本教程：同济子豪兄https://github.com/TommyZihao/MMGeneration_Tutorials
 
 老版本视频讲解：同济子豪兄 https://space.bilibili.com/1900783/channel/collectiondetail?sid=367182
